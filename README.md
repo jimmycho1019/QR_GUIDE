@@ -1,44 +1,10 @@
 <!DOCTYPE html>
 <html lang="ko">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>핸드폰 사용 설명서</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            background: #fff;
-            padding: 20px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        .image-container {
-            text-align: center;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-        ul {
-            padding-left: 20px;
-        }
-    </style>
-</head>
 <body>
 
 <div class="container">
-    <h1>핸드폰 사용 설명서</h1>
-    <p>이 설명서는 최신 스마트폰의 기본적인 사용 방법을 안내합니다. 아래 단계를 따라가며 핸드폰 사용법을 익혀보세요.</p>
+    <h1>QR 가이드 설명서</h1>
+    <p>신도봉 교회 재정부 앱(SDB_QRS) 사용 시 필요한 내용을 설명하기 위한 가이드입니다.</p>
 
     <h2>1. 핸드폰 전원 켜기</h2>
     <p>핸드폰의 오른쪽 측면에 있는 전원 버튼을 길게 눌러 핸드폰을 켭니다. 로고가 나타나면 핸드폰이 부팅되고, 잠시 후 홈 화면이 나타납니다.</p>
